@@ -1,0 +1,28 @@
+.text-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .movable-text {
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    margin-right: 20px;
+    transition: transform 0.3s ease;
+  }
+  
+  .move-right {
+    transform: translateX(20px); /* Moves the text 20px to the right */
+  }
+  
+  .arrow {
+    font-size: 30px;
+    margin-left: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Optional hover effect on the arrow */
+  .text-container:hover .arrow {
+    transform: translateX(10px);
+  }
+  

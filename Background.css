@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
+.background-image{
+    width:742px ;
+    margin-left: 550px;
+    margin-bottom:250px;
+  }
+.background{
+    display: flex;
+    justify-content: space-between; 
+    height: 38vh; 
+    padding: 30 0px;
+}
+.get-to-know-us-button{
+  background:  black ;
+  color: white;
+  border: 2px solid black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.the-web-addict{
+  margin-top: 100px;
+  padding-left: 50px;
+  font-size: 56px;
+  font-weight: bold;
+}
+.we-are{
+    max-width: 200px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 100px;
+    margin-right: 350px;
+}
+.logo{
+  width:80px ;
+ margin-right: 100rem;
+ margin-bottom: rem;
+}
+
+/*.menu-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}*/
+.Background{
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  position: fixed;
+}

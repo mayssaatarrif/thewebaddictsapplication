@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+.logo2{
+    width:80px ;
+   margin-right: 100rem;
+   color: #fff;
+   margin-bottom: rem;
+  }
+  .AboutBackground{
+    background-color: transparent;
+    color: black;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    position: fixed;
+  }
+  h1{
+   
+    font-size: 45px;
+   font-weight: bolder;
+   margin-bottom: 0.01px;
+   margin-left: 50px;
+  }
+  h3{
+    margin-left: 20px;
+    padding-top: 0.01px;
+  }
+  .line1{
+    top: 20px;
+    border: none;
+    height: 20px;
+    width: 240px;
+    background:#4d4d4d;
+    margin-top: -400px;
+    margin-right:600px ;
+}
+.email{
+   position: absolute;
+    color: #4d4d4d;
+    margin-top: 289px;
+    margin-left:848px ;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size:small;
+}
+.line2{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 20px;
+    width: 240px;
+    background: #4d4d4d;
+    margin-top:50px;
+    margin-right:600px ;
+}
+.phone2{
+    position:absolute;
+    color: #4d4d4d;
+    padding-top: 390px;
+    margin-left:848px ;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size:small;
+}
+.line3{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 20px;
+    width: 240px;
+    background:#4d4d4d;
+    margin-top: 70px;
+    margin-right:600px ;
+}
+.location{
+    position:absolute;
+    color: #4d4d4d;
+    padding-top: 460px;
+    margin-left:840px ;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size:small;
+}
+.phone1{
+  position:absolute;
+  color: #4d4d4d;
+  margin-top: 370px;
+  margin-left:848px ;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size:small;
+}
+.Instagram{
+  margin-top: -35px;
+  margin-left:848px ;
+}
+.Facebook{
+  margin-left:910px ;
+  margin-top: 60px;
+}
+.Linkedin{
+  margin-left:980px ;
+  top: 60px;
+}
